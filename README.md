@@ -25,4 +25,5 @@ Kendimi JS dilinde Geliştirmek için yaptığım bir projeydi alıp geliştirip
 * Projeyi zip halinde indirin ve bir klasöre çıkarın.
 * Çıkardığınız klasördeki `config.json` adlı dosyayı açın ve içindekileri doğru bir biçimde doldurun.
 * Ardından terminale `npm install` yazın.
+* shopItems.js yerinde mağaza itemleri yazıyor onları değiştirebilirsiniz. Lütfen İtem İsimlerinin arasına Boşluk koymayın çalışmaz!
 * Son olarak Başlat.bat adlı dosyayı çalıştırınız **kodlarda bir sıkıntı yoktur hepsi denenmiştir!**
