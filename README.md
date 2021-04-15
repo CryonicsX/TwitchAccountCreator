@@ -24,5 +24,5 @@ Kendimi JS dilinde Geliştirmek için yaptığım bir projeydi alıp geliştirip
 * MongoDB hesabınızın olması gerekiyor.
 * Projeyi zip halinde indirin ve bir klasöre çıkarın.
 * Çıkardığınız klasördeki `config.json` adlı dosyayı açın ve içindekileri doğru bir biçimde doldurun.
-* Ardından terminale `npm init -y` ardından `npm install` yazın.
+* Ardından terminale `npm install` yazın.
 * Son olarak Başlat.bat adlı dosyayı çalıştırınız **kodlarda bir sıkıntı yoktur hepsi denenmiştir!**
