@@ -1,4 +1,4 @@
-const { MessageEmbed, DiscordAPIError } = require('discord.js') //Developed By CryonicX
+const { MessageEmbed, DiscordAPIError } = require('discord.js')
 module.exports = {
     name: 'katlakazan',
     //aliases: [''],
@@ -21,7 +21,7 @@ module.exports = {
                     a.edit(`${user}\n :tada: Tebrikler **${winAmount}** Coin Kazandın <a:coin:831523765640888361>`)
                 }, 10000)
             })
-            client.add(message.id, winAmount)
+            client.add(message.author.id, winAmount)
         } else {
             message.channel.send(`🕛 (10) **saniye sonra sonuç açıklanacaktır!!**`).then(a => {
                 setTimeout(() => {
