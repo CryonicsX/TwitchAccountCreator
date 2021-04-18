@@ -24,6 +24,6 @@ module.exports = {
         const avatar = await Canvas.loadImage(user.user.displayAvatarURL({ format: 'jpg' }));
         ctx.drawImage(avatar, 27, 27, 200, 200);
         const attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'coin.jpg');
-        message.channel.send(`> <a:prlt:831064906975412285> [ **•** **${user.user.username}** ] Kişisinin Ekonomi Durumu:\n`, attachment)
+        message.channel.send(`> [ **•** **${user.user.username}** ] Kişisinin Ekonomi Durumu:\n`, attachment)
     }
 }
