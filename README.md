@@ -15,7 +15,7 @@
 
 * *CRYONICX*
 
-* Discord: [cryonicx](https://discord.com/users/909889971270348832)
+* Discord: [@CryonicX](https://discord.com/users/909889971270348832)
 * Github: [@CryonicX](https://github.com/CryonicsX)
 
 
