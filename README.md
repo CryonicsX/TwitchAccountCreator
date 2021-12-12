@@ -9,7 +9,7 @@
 # Usage
 
 * Type ````pip install -r requirements.txt```` to download modules.
-* Type ````python3 main.py```` to start the script.
+* Type ````python main.py```` to start the script.
 
 # Developer
 
