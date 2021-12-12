@@ -21,7 +21,7 @@
 
 # Show Your Support
 
-* If the project helped you, you can support me by giving ⭐️!
+* Donate To Me VIA eth(erc20): ````0xe47148ffa60a38858391b5df32868e1733d4baf2````
 
 # License
 
