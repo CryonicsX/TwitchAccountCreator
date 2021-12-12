@@ -37,9 +37,7 @@ def getProxy():
             lines = f.readlines()
             landline = random.choice(lines).split('\n')[0]
 
-        return {
-            "http": f"http://{landline}"
-        }
+        return {"http": f"http://{landline}"}
 
 
 def write(file: str, text: str):
