@@ -1,4 +1,4 @@
-# Contact me for paid scripts. discord: cryonicx#9830
+# Contact me for paid scripts. discord: cryonicx#1337
 
 # Twitch Account Creator 2021
 
